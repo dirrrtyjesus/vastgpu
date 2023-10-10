@@ -19,6 +19,9 @@ sleep 5
 echo "---------------------------"
 
 sudo apt -y install nvtop
+sleep 5
+echo "---------------------------"
+
 sudo apt -y install cmake
 sleep 5
 echo "---------------------------"
