@@ -18,7 +18,7 @@ sudo apt -y install htop
 sleep 5
 echo "---------------------------"
 
-# sudo apt -y install nvtop
+sudo apt -y install nvtop
 sudo apt -y install cmake
 sleep 5
 echo "---------------------------"
@@ -53,10 +53,4 @@ sudo pip install -U -r requirements.txt
 sleep 5
 echo "---------------------------"
 
-sudo nohup python3 miner.py --gpu=true > miner.log 2>&1 &
-sleep 5
-echo "---------------------------"
 
-sudo nohup ./xengpuminer > xengpuminer.log 2>&1 &
-sleep 5
-echo "---------------------------"
