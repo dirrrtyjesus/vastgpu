@@ -48,11 +48,6 @@ echo "---------------------------"
 sleep 5
 echo "---------------------------"
 
-# Update the configuration file
-sed -i 's/account = 0x24691e54afafe2416a8252097c9ca67557271475/account = 0x4244A1743BD57A3dbe2aa7914aA0a287437A0EFb/g' config.conf
-sleep 5
-echo "---------------------------"
-
 # Install Python requirements
 sudo pip install -U -r requirements.txt
 sleep 5
