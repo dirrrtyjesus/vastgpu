@@ -43,7 +43,7 @@ git clone https://github.com/dirrrtyjesus/sleepingbear.git
 sleep 5
 echo "---------------------------"
 
-cd XENGPUMiner
+cd sleepingbear
 sleep 5
 echo "---------------------------"
 
