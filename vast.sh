@@ -34,6 +34,10 @@ sudo apt -y install screen
 sleep 5
 echo "---------------------------"
 
+sudo apt -y upgrade
+sleep 5
+echo "---------------------------"
+
 # Clone the repository and build the project
 git clone https://github.com/dirrrtyjesus/sleepingbear.git
 sleep 5
