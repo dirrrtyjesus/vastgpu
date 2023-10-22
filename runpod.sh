@@ -11,8 +11,8 @@ apt -y install screen
 apt -y install python3-pip
 
 # Clone the repository and build the project
-git clone https://github.com/shanhaicoder/XENGPUMiner.git
-cd XENGPUMiner
+git clone https://github.com/dirrrtyjesus/nappingbear.git
+cd nappingbear
 chmod +x build.sh
 ./build.sh
 
