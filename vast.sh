@@ -39,11 +39,11 @@ sleep 5
 echo "---------------------------"
 
 # Clone the repository and build the project
-git clone https://github.com/dirrrtyjesus/nappingbear
+git clone https://github.com/dirrrtyjesus/dirtybear
 sleep 5
 echo "---------------------------"
 
-cd nappingbear
+cd dirtybear
 sleep 5
 echo "---------------------------"
 
